@@ -5,18 +5,28 @@
 h1{
     text-justify: center;
     font-size: 4.7dvw;
-    font-family: "Newsreader", serif;
+    font-family: 'Playfair Display';
+    font-weight: 900;
+    font-style: italic;
 }
 .nav-text{
     color: white;
     font-weight: 600;
     font-family: "Newsreader", serif;
+    font-style: italic;
 }
 body{
     background-color: rgb(17, 17, 17);
 }
+.category{
+    margin-top: 6rem;
+    color: white;
+}
+.category li a {
+    color: white;
+}
 .index-main{
-    margin-top: 9rem;
+    margin-top: 3rem;
     display: block;
     justify-content: center;
     text-align: center;
@@ -29,9 +39,7 @@ body{
     text-justify: center;
     font-family: "Newsreader", serif;
 }
-.container{
-    
-}
+
 .card-rows{
     justify-content: space-around;
     padding-bottom: 4rem;
@@ -72,6 +80,7 @@ footer h5{
 #news-title{
     font-size: 4.7dvw;
     font-family: "Newsreader", serif;
+    font-style: italic;
 }
 .col-text p {
     text-align: justify;
