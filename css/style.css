@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
-
 h1{
     text-justify: center;
     font-size: 4.7dvw;
@@ -23,6 +22,7 @@ body{
     color: white;
 }
 .category li a {
+    color: white;
     color: white;
 }
 .index-main{
@@ -89,3 +89,4 @@ footer h5{
     max-width: 40vw;
     border-radius: 0.5rem;
 }
+
