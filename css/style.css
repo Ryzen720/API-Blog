@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1{
+    text-justify: center;
+    font-size: 4.7dvw;
+    font-family: "Newsreader", serif;
+}
+.nav-text{
+    color: white;
+    font-weight: 600;
+    font-family: "Newsreader", serif;
+}
+body{
+    background-color: rgb(17, 17, 17);
+}
+.index-main{
+    margin-top: 9rem;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 1rem ;
+    padding-top: 1rem ;
+    color: white
+}
+.index-main p {
+    color: rgb(141, 141, 141);
+    text-justify: center;
+    font-family: "Newsreader", serif;
+}
+.container{
+    
+}
+.card-rows{
+    justify-content: space-around;
+    padding-bottom: 4rem;
+}
+.card{
+    margin-top: 4rem;
+    background-color: rgb(36, 36, 36);
+    color: white;
+}
+.card h5,
+.card p,
+.card a {
+    font-family: "Newsreader", serif;
+}
+footer{
+    text-align: center;
+    padding: 4vh;
+    background-color: rgb(25, 25, 25);
+}
+footer h5{
+    padding: 0;
+    margin: 0;
+    color: rgb(141, 141, 141);
+    font-size: small;
+}
+
+/* INDEX-NEWS */
+.container-news{
+    background-color: rgb(36, 36, 36);
+    color: white;
+    margin-top: 6rem;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+    text-align: center;
+    height: 80vh;
+    padding-top: 1rem ;
+}
+#news-title{
+    font-size: 4.7dvw;
+    font-family: "Newsreader", serif;
+}
+.col-text p {
+    text-align: justify;
+}
+.news-imgs{
+    max-width: 40vw;
+    border-radius: 0.5rem;
+}
